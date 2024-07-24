@@ -1,6 +1,7 @@
 # PAA_5_1
 Practical Assignment Module 5
   - Added Basic visualization diagrams on coupons.csv
+    Refer https://github.com/lakshmip8217/PAA_5_1/blob/main/prompt.ipynb for all the visualizations
 Brief explanation of the each visualization updated in prompt.ipynb
   - Ref step [4] What proportion of the total observations chose to accept the coupon?
     Used pie chart to show portion of each accepted coupons based on the destination, this will give more clarify of the passenger preferences based on the destination
