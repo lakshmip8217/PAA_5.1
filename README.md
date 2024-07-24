@@ -1,8 +1,8 @@
 # PAA_5_1
-#Practical Assignment Module 5
+## Practical Assignment Module 5
   - Added Basic visualization diagrams on coupons.csv
     Refer https://github.com/lakshmip8217/PAA_5_1/blob/main/prompt.ipynb for all the visualizations
-#Brief explanation of the each visualization updated in prompt.ipynb
+## Brief explanation of the each visualization updated in prompt.ipynb
   - Ref step [4] What proportion of the total observations chose to accept the coupon?
     Used pie chart to show portion of each accepted coupons based on the destination, this will give more clarify of the passenger preferences based on the destination
   - Ref step [5] Use a bar plot to visualize the coupon column.
@@ -10,7 +10,7 @@
   - Ref step [6] Use a histogram to visualize the temperature column.
     Temperatures between 75 to 80 are the timings, where coupons are effectively used by the drivers, than other timings given. This ensures that drivers first priority 
     to make use of the coupon offered is current weather conditions.
-#Some of more general visualizations
+## Some of more general visualizations
   - Coupons usage by age and has_childern columns
     Box plot has been defined and data shows that Drivers age group without childern are accepting the coupons than the with kids. Also age group 21 and 26 are the ones
     accepting the coupons higher than other age groups.
@@ -19,7 +19,7 @@
   - A bar plot on coupons used vs income
     Drivers with income of 25,000 to 37,499 are highly accepting toCoupon_GEQ5min, whereas toCoupon_GEQ15min & toCoupon_GEX25min are equal likely to accept the coupon irrespective of 
     the income range.
-#Investigating Bar coupons
+## Investigating Bar coupons
   - 1 created a bar_coupons_df with coupon type Bar
   - 2 What proportion of bar coupons were accepted?
       Pie chart shows that 59% of the bar coupons are accepted and remaining 41% are not used
@@ -39,7 +39,7 @@
   - 7 Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
       Drivers who accepted the bar coupons are likely to exhibit behaviors and characteristics that align with being socially active and
       budget-conscious
-#Independent Investigation
+## Independent Investigation
   - Created a bar plot on the passengers buying CarryAway food considering the age
      Assumptions: Passenger type alone is treated as a Driver
      Based on the above assumption, Drivers of age 21 is highly accepted the coupon where as passenger type partner is the lowest ones to redeem the coupons.
